@@ -8,4 +8,4 @@ Hello
 
 ## local dev    
 
-1. open index.html in browser.
+1. open index.html in browser!
